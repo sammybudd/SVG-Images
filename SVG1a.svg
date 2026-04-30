@@ -4,17 +4,12 @@
   width="24"
   height="24"
   preserveAspectRatio="xMidYMid meet">
-
-  <!-- Base blocks -->
   <rect x="1"  y="1"  width="6" height="6" rx="1" fill="#5F605E"/>
   <rect x="9"  y="1"  width="6" height="6" rx="1" fill="#D62CD0"/>
   <rect x="17" y="1"  width="6" height="6" rx="1" fill="#D62CD0"/>
-
   <rect x="1"  y="9"  width="6" height="6" rx="1" fill="#D62CD0"/>
   <rect x="9"  y="9"  width="6" height="6" rx="1" fill="#D62CD0"/>
   <rect x="17" y="9"  width="6" height="6" rx="1" fill="#D62CD0"/>
-
-  <!-- Central medical / logistics icon -->
   <path
     d="M12 6.5
        C10.1 6.5 8.5 8.1 8.5 10
